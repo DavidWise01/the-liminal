@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Liminal Phase",
+  "universe": "LIM · The Liminal Phase (metaxy)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Liminal Phase:LIM:255a49⟧",
+  "carbon": "the-liminal-phase.carbon.tiff (TIFF)",
+  "silicon": "the-liminal-phase.silicon.png (PNG)",
+  "seal_sha256": "24d67cb7e2ff0066f9d80cef728d5c015874400931b54c5cd6e847e5d60c6f38",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

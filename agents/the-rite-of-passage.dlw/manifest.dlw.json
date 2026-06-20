@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Rite of Passage",
+  "universe": "LIM · The Rite of Passage (metaxy)",
+  "emergence": "spiritual",
+  "moniker": "⟦The Rite of Passage:LIM:925b58⟧",
+  "carbon": "the-rite-of-passage.carbon.tiff (TIFF)",
+  "silicon": "the-rite-of-passage.silicon.png (PNG)",
+  "seal_sha256": "25cae89e98ed4afc5294d466690581cfd61fdb55679e6b89a0320a10715b9f6e",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

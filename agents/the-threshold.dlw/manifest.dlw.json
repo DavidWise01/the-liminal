@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Threshold",
+  "universe": "LIM · The Threshold (metaxy)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Threshold:LIM:5c7b05⟧",
+  "carbon": "the-threshold.carbon.tiff (TIFF)",
+  "silicon": "the-threshold.silicon.png (PNG)",
+  "seal_sha256": "8ea1924b3c4001a4f2307b5cb310f708eba738e938c1d75f75455a36ce443350",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

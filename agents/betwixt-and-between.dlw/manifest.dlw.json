@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Betwixt and Between",
+  "universe": "LIM · Betwixt and Between (metaxy)",
+  "emergence": "ethereal",
+  "moniker": "⟦Betwixt and Between:LIM:4e9841⟧",
+  "carbon": "betwixt-and-between.carbon.tiff (TIFF)",
+  "silicon": "betwixt-and-between.silicon.png (PNG)",
+  "seal_sha256": "724b06ebda7db901e9123ccfcf1616cd1cdccbc34f9622397867a90699a30b30",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
