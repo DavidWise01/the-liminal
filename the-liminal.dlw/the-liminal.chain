@@ -4,6 +4,6 @@ slug  : the-liminal
 seal  : adc8735944957430aecd2d2fe2084b3aa4a30c7d6818d5bc6e5da0145ac18382
 prev  : 08024bf07434deac9d4a6cadfd6fad6cbedbba9baf11bbeaa7a0f480e8532960
 link  : 1d6803f6cd02afc4b3e66094954de2fe91eaaeab65190080fcc9cda886e867e4
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
