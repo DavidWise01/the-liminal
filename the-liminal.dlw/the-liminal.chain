@@ -1,9 +1,9 @@
 ROOT0-DLW-CHAIN-v1
 index : 825
 slug  : the-liminal
-seal  : adc8735944957430aecd2d2fe2084b3aa4a30c7d6818d5bc6e5da0145ac18382
-prev  : 08024bf07434deac9d4a6cadfd6fad6cbedbba9baf11bbeaa7a0f480e8532960
-link  : 1d6803f6cd02afc4b3e66094954de2fe91eaaeab65190080fcc9cda886e867e4
-head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
+seal  : 4bed2e0e3e9b281f69db7a8022d2b9f8e4562c977f573093105cafb000eeeba5
+prev  : 114fc71762e91af6e7312bcf1bab5e3cc0a916248bce6fda0fe95cdd037d93a5
+link  : 688f202c9d97a1f301b281ff42d76d3651ce570865badb3eecb4fee8d3f18906
+head  : c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
